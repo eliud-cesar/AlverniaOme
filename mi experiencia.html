@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MI EXPERIENCIA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <p><a href="index.html">inicio</a></p>
+    <h1>MI FIN DE SEMANA</h1>
+    <footer>Freddy Acosta</footer>
+
+    <table>
+        <caption>MI HORARIO DE CLASES</caption>
+        <colgroup>
+            <col span="2">
+            <col style="background: yellow;">
+            <col>
+            <col>
+        </colgroup>
+        <thead>
+        <tr>
+            <td>Lunes</td>
+            <td>Martes</td>
+            <td>Miercoles</td>
+            <td>Jueves</td>
+            <td>Viernes</td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>HTML</td>
+            <td>PHP</td>
+            <td>javascript</td>
+            <td>CSS</td>
+            <td>python</td>
+        </tr>
+        <tr>
+            <td colspan="5" style="background: yellowgreen;">Recreo</td>
+        </tr>
+        <tr>
+            <td rowspan="2">HTML</td>
+            <td>PHP</td>
+            <td rowspan="2">javascript</td>
+            <td>CSS</td>
+            <td>python</td>
+        </tr>
+        <tr>
+            <td>java</td>
+            <td>pwa</td>
+            <td>c++</td>
+        </tr>
+        </tbody>
+        <tfoot>
+            <tr style="background: yellow;">
+                <td>1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+                <td>5</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <h1>formularios</h1>
+    <form>
+        <fieldset>
+            <legend>tus datos personales</legend>
+        <div>
+            <label>
+                Ingrese su nombre de usuario
+                <input id="username" name="username"> 
+            </label>
+        </div>
+        <div>
+            <label>
+                Ingrese su contraseña
+                <input id="password" type="password" name="password" required>
+            </label>
+        </div>
+        <div>
+            <label>
+                Ingrese su e-mail
+                <input type="email">
+            </label>
+        </div>
+        </fieldset> 
+        <div>
+            <label>
+                tu fecha de nacimiento</label>
+                <input type="date">
+        </div>
+        <div>
+            <label>
+                ingrese su edad
+                <input type="number" value="2" readonly>
+            </label>
+        </div>
+        <input name="username" placeholder="Ingrese su usuario">
+        <input type="submit" value="Iniciar sesión">
+        <!-- <button>Enviar</button> -->
+        <div>
+            <fieldset>
+                <legend>tus pasatiempos</legend>
+                <label><input type="checkbox">deportes</label>
+                <label><input type="checkbox">leer</label>
+                <label><input type="checkbox">jugar</label>
+                <label><input type="checkbox">ver videos</label>
+            </fieldset>
+        </div>
+        <div>
+            <fieldset>
+                <legend>genero</legend>
+                <label><input type="radio" name="gender">hombre</label>
+                <label><input type="radio" name="gender">mujer</label>
+                <label><input type="radio" name="gender">prefiero no decirlo</label>
+            </fieldset>
+
+        </div>
+        <div>
+            <fieldset>
+                <label for="contry">escoje tu comunidad</label>
+                <select name="contry" id="contry">
+                    <optgroup label="Cercanas">
+                        <option value="ometepec">ometepec</option>
+                        <option value="xochistlahuaca">xochistlahuaca</option>
+                        <option value="zacualpan">zacualpan</option>
+                        <option value="igualapa">igualapa</option>
+                    </optgroup>
+                    <optgroup label="Lejanas">
+                        <option value="oaxaca">oaxaca</option>
+                        <option value="acapulco">acapulco</option>
+                    </optgroup>
+                </select>
+            </fieldset>
+        </div>
+        <div>
+            <fieldset>
+                <textarea name="mensaje" id="" cols="30" rows="10" placeholder="ESCRIBE TU MENSAJE"></textarea>
+            </fieldset>
+        </div>
+    </form>
+    <script>
+        document.getElementById("password").addEventListener("keyup", e=> {
+            console.log(e.target.value)
+        })
+    </script>
+
+    <video src="img/media/alvernia.mp4" poster="img/logo.png" controls></video>
+    <audio src="img/4K.mp3" controls></audio>
+
+    <h2>contenido interactivo</h2>
+    <details>
+        <summary>hola muno</summary>
+        <p>hola</p>
+    </details>
+
+    <p>hola</p>
+    <dialog id="modal">
+        <h2>hola</h2>
+        <p>mundo</p>
+    </dialog>
+
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/1m7bW3sdO9w" 
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+
+    <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3821.853399506218!2d-98.40748068562648!3d16.68421792709548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c8342fa491379d%3A0x55b4eb1ef916aa4b!2sCatedral%20Santiago%20Apostol%20Ometepec!5e0!3m2!1ses-419!2smx!4v1595297033687!5m2!1ses-419!2smx"
+    width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" 
+    aria-hidden="false" tabindex="0"></iframe>
+</body>
+</html>

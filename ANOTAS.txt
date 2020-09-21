@@ -1,0 +1,84 @@
+MODO UUIRSKS (KUIRS)
+instalar prepos {actualiza y ver el codigo en una LAN y crea un localhost}
+schema.org {destacar cosas de big data e IA, MICRODATOS} []
+TIPOS DE DATOS DE: {lenguaje de progtamacion} 
+disqus {comentarios}   
+wufoo {formularios}
+{actualizarse} [wwwc, w3c & whatswg & can i use, & mdn]
+
+ +broma+
+    <script>
+        document.getElementById("password").addEventListener("keyup", e=> {
+            console.log(e.target.value)
+        })
+    </script>
+
+
+
+PENDIENTES DE LA PRINCIPAL
+
+1🎮formulario [ FINAL ]
+ { AL INICIO Y FINAL Y EN LAS CONDICIONES } [wuffo, INVESTIGAR] 
+
+2🎮tiempo de alvernia [ 1 ]
+ { LOS AÑOS DE ALVERNIA [MUNDO, PAIS, OME] } {microdatos}
+
+3🎮lideres de alvernia [ PEN ]
+ { MENCIONAR A OTROS CABECILLAS }
+
+4🎮comisiones de alvernia [ PEN ]
+ { INTEGRANTES }
+
+5🎮opiniones de alvernistas [ PEN ]
+ { OPINIONES }
+
+6🎮otras alvernias [ PEN ]
+ { ALVERNIAS CERCANAS } [ UBICACION, LINKS ]
+
+7🎮fechas [ PEN ]
+ { FECHA DE ALVERNIA Y FOTO DE PUBLICIDAD }
+
+8🎮uniforme [ PEN ]
+ { FOTOS DE LAS PLAYERAS }
+
+9🎮comentarios [ FINAL ]
+ { DISQUS }
+
+
+NOTES
+
+DUDAS Y AYUDA
+° el link de ¿porque alvernia?
+° ser alvernista sin vivir el retiro
+° como registrarse ?
+° y como pago ?
+° puedo apoyar con alvernia?
+° 
+° 
+° 
+° 
+° 
+° 
+___________________________________________________________
+
+nombre  |  links  |  css
+
+master  |  ✔     |  ✔
+blog    |  ✔     |  ✔
+ubi     |  ✔     |  ✔
+condi   |  ✔     |  ✔
+contac  |  ✔     |  ✔  
+piliti  |  ✔     |  ✔
+servici |  ✔     |  ✔
+soporte |  ✔     |  ✔ 
+termino |  ✔     |  ✔
+
+
+
+
+
+
+
+
+
+

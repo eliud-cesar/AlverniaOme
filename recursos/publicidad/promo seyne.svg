@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="promo seyne.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="C:\Users\Personal\Pictures\prueba.png"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 211.66666 264.5833"
+   height="1000"
+   width="800">
+  <defs
+     id="defs2">
+    <rect
+       id="rect14316"
+       height="21.398679"
+       width="126.03626"
+       y="236.95601"
+       x="77.74199" />
+    <rect
+       id="rect11017"
+       height="6.6748173"
+       width="101.30017"
+       y="197.69238"
+       x="13.545953" />
+    <rect
+       id="rect11011"
+       height="8.4416807"
+       width="130.55157"
+       y="180.41639"
+       x="11.386453" />
+    <rect
+       id="rect10978"
+       height="41.367734"
+       width="130.76646"
+       y="153.25496"
+       x="49.419172" />
+    <rect
+       id="rect10972"
+       height="18.879235"
+       width="200.73068"
+       y="117.43994"
+       x="38.591376" />
+    <rect
+       id="rect10966"
+       height="8.8843459"
+       width="91.619821"
+       y="98.838345"
+       x="15.269969" />
+    <rect
+       id="rect10958"
+       height="87.177641"
+       width="119.93867"
+       y="82.180197"
+       x="43.311185" />
+    <rect
+       id="rect10636"
+       height="44.956858"
+       width="175.50843"
+       y="40.834177"
+       x="18.846543" />
+    <rect
+       id="rect10630"
+       height="45.349494"
+       width="127.6068"
+       y="41.226813"
+       x="70.674536" />
+    <rect
+       id="rect10409"
+       height="32.588814"
+       width="128.39207"
+       y="190.82125"
+       x="43.582631" />
+    <rect
+       id="rect10403"
+       height="45.153176"
+       width="87.557898"
+       y="177.47161"
+       x="190.03598" />
+    <rect
+       id="rect10397"
+       height="47.116358"
+       width="111.50871"
+       y="180.6127"
+       x="49.864812" />
+    <rect
+       id="rect10199"
+       height="37.480833"
+       width="149.36806"
+       y="101.33707"
+       x="44.699364" />
+    <rect
+       id="rect10191"
+       height="124.38084"
+       width="152.69969"
+       y="44.421728"
+       x="230.43771" />
+    <rect
+       id="rect9928"
+       height="10.272525"
+       width="5.552716"
+       y="64.13387"
+       x="70.519493" />
+    <rect
+       id="rect9708"
+       height="56.360067"
+       width="93.285629"
+       y="114.66359"
+       x="13.604154" />
+    <rect
+       id="rect9694"
+       height="19.989778"
+       width="129.93355"
+       y="259.86711"
+       x="30.262302" />
+    <rect
+       id="rect7012"
+       height="70.784079"
+       width="167.12718"
+       y="60.524604"
+       x="118.27285" />
+    <symbol
+       id="Toilets">
+      <title
+         id="title1646">Toilets</title>
+      <g
+         style="stroke:none"
+         id="g1658">
+        <!-- Divider -->
+        <rect
+           style="stroke-width:0.264583"
+           x="8.8635416"
+           y="3.175"
+           width="1.3229166"
+           height="12.7"
+           id="rect1648" />
+        <!-- Woman -->
+        <circle
+           style="stroke-width:0.264583"
+           cx="5.1593752"
+           cy="3.96875"
+           r="1.0583333"
+           id="circle1650" />
+        <path
+           style="stroke-width:0.264583"
+           d="m 5.0270833,11.773958 v 3.704167 a 0.52916667,0.52916667 0 0 1 -1.0583333,0 V 11.773958 H 2.6458333 L 4.1010417,6.8791667 H 3.8364583 l -0.79375,2.778125 A 0.48180625,0.48180625 0 0 1 2.1166667,9.3927083 l 0.9260416,-3.175 A 1.508125,1.2170833 0 0 1 4.4979167,5.2916667 h 1.3229166 a 1.508125,1.2170833 0 0 1 1.4552084,0.9260416 l 0.9260416,3.175 A 0.48180625,0.48180625 0 0 1 7.2760417,9.6572917 l -0.79375,-2.778125 H 6.2177083 L 7.6729167,11.773958 H 6.35 v 3.704167 a 0.52916667,0.52916667 0 0 1 -1.0583333,0 v -3.704167 z"
+           id="path1652" />
+        <!-- Man -->
+        <circle
+           style="stroke-width:0.264583"
+           cx="13.890625"
+           cy="3.96875"
+           r="1.0583333"
+           id="circle1654" />
+        <path
+           style="stroke-width:0.264583"
+           d="m 11.377083,6.6145833 v 3.4395837 a 0.463021,0.463021 0 0 0 0.926042,0 V 7.0114583 h 0.264583 v 8.4005207 a 0.5953125,0.5953125 0 0 0 1.190625,0 v -4.960937 h 0.264584 v 4.960937 a 0.5953125,0.5953125 0 0 0 1.190625,0 V 7.0114583 h 0.264583 v 3.0427087 a 0.463021,0.463021 0 0 0 0.926042,0 V 6.6145833 A 1.3229167,1.3229167 0 0 0 15.08125,5.2916667 H 12.7 a 1.3229167,1.3229167 0 0 0 -1.322917,1.3229166 z"
+           id="path1656" />
+      </g>
+    </symbol>
+    <symbol
+       id="Cashier">
+      <title
+         id="title1360">Cashier</title>
+      <g
+         style="fill:none;stroke-width:6"
+         id="g1366">
+        <circle
+           style="stroke-width:1.5875"
+           cx="9.5249996"
+           cy="9.5249996"
+           r="6.3499999"
+           id="circle1362" />
+        <path
+           style="stroke-width:1.5875"
+           d="M 11.90625,7.9375 C 11.90625,6.8791667 10.847917,6.35 9.525,6.35 c -1.3229167,0 -2.38125,0.5291667 -2.38125,1.5875 0,1.0583333 1.0583333,1.4552083 2.38125,1.5875 1.322917,0.1322917 2.645833,0.2645833 2.645833,1.5875 0,1.322917 -1.322916,1.5875 -2.645833,1.5875 -1.3229167,0 -2.38125,-0.79375 -2.38125,-1.852083 M 9.525,4.4979167 V 14.552083"
+           id="path1364" />
+      </g>
+    </symbol>
+    <symbol
+       id="Cashier_Inv">
+      <title
+         id="title1369">Cashier</title>
+      <rect
+         x="0.13229166"
+         y="0.13229166"
+         width="18.785418"
+         height="18.785418"
+         ry="1.5875"
+         style="stroke:#ffffff;stroke-width:0.264583"
+         id="rect1371" />
+      <g
+         style="fill:none;stroke:#ffffff;stroke-width:6"
+         id="g1377">
+        <circle
+           style="stroke-width:1.5875"
+           cx="9.5249996"
+           cy="9.5249996"
+           r="6.3499999"
+           id="circle1373" />
+        <path
+           style="stroke-width:1.5875"
+           d="M 11.90625,7.9375 C 11.90625,6.8791667 10.847917,6.35 9.525,6.35 c -1.3229167,0 -2.38125,0.5291667 -2.38125,1.5875 0,1.0583333 1.0583333,1.4552083 2.38125,1.5875 1.322917,0.1322917 2.645833,0.2645833 2.645833,1.5875 0,1.322917 -1.322916,1.5875 -2.645833,1.5875 -1.3229167,0 -2.38125,-0.79375 -2.38125,-1.852083 M 9.525,4.4979167 V 14.552083"
+           id="path1375" />
+      </g>
+    </symbol>
+    <rect
+       x="11.386453"
+       y="180.4164"
+       width="130.55157"
+       height="8.4416809"
+       id="rect11011-3" />
+    <rect
+       x="11.386453"
+       y="180.4164"
+       width="130.55157"
+       height="8.4416809"
+       id="rect11030" />
+    <rect
+       x="11.386453"
+       y="180.4164"
+       width="130.55157"
+       height="8.4416809"
+       id="rect11011-1" />
+    <rect
+       x="11.386453"
+       y="180.4164"
+       width="130.55157"
+       height="8.4416809"
+       id="rect11030-3" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="745"
+     inkscape:window-width="1366"
+     units="px"
+     objecttolerance="1"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="467.40478"
+     inkscape:cx="422.65317"
+     inkscape:zoom="0.47649355"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <g
+       sodipodi:insensitive="true"
+       style="fill:#0eaab4;fill-opacity:1"
+       id="g10182">
+      <rect
+         style="fill:#0eaab4;fill-opacity:1;fill-rule:evenodd;stroke-width:0.27623"
+         id="rect10"
+         width="211.41989"
+         height="264.37866"
+         x="0.11272271"
+         y="-0.11499975"
+         ry="0" />
+    </g>
+    <path
+       sodipodi:insensitive="true"
+       sodipodi:nodetypes="ccccc"
+       id="path835"
+       d="M 0.11272271,-0.11499975 211.49675,-0.03920584 211.43361,0.06888857 0.32814868,264.18731 Z"
+       style="fill:#0db2bf;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g10">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g12">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g14">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g16">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g18">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g20">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g22">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g24">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g26">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g28">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g30">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g32">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g34">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g36">
+</g>
+    <g
+       transform="matrix(0.2057374,0,0,0.19357335,118.44079,236.5656)"
+       id="g38">
+</g>
+    <text
+       id="text9704"
+       y="79.681473"
+       x="280.96741"
+       style="font-size:6.35px;line-height:1.25;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="79.681473"
+         x="280.96741"
+         id="tspan9702"
+         sodipodi:role="line" /></text>
+    <text
+       style="font-family:'Britannic Bold';font-size:6.35px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Britannic Bold, Normal';white-space:pre;shape-inside:url(#rect9928);"
+       id="text9926"
+       xml:space="preserve" />
+    <text
+       id="text10626"
+       y="20.267414"
+       x="49.974442"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="20.267414"
+         x="49.974442"
+         id="tspan10624"
+         sodipodi:role="line">Seyne promo</tspan></text>
+    <text
+       style="font-family:'Britannic Bold';font-size:6.35px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Britannic Bold, Normal';white-space:pre;shape-inside:url(#rect10630);"
+       id="text10628"
+       xml:space="preserve" />
+    <text
+       style="font-size:6.35px;line-height:1.25;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10636);"
+       id="text10634"
+       xml:space="preserve" />
+    <g
+       transform="matrix(0.50637907,0,0,0.49714911,4.6316821,229.40947)"
+       id="media-monitor-screen-Digital_Marketing"
+       data-name="media-monitor-screen-Digital Marketing">
+      <path
+         d="m 5,16 h 54 a 2,2 0 0 1 2,2 V 48 H 3 V 18 a 2,2 0 0 1 2,-2 z"
+         fill="#3780ea"
+         id="path10640" />
+      <path
+         d="M 7,28 H 33 V 44 H 7 Z"
+         fill="#896ff7"
+         id="path10642" />
+      <path
+         d="m 42,57 v 4 H 22 v -4 h 7 6 z"
+         fill="#e8e5fb"
+         id="path10644" />
+      <path
+         d="m 29,51 h 6 v 6 h -6 z"
+         fill="#8e95a3"
+         id="path10646" />
+      <path
+         d="m 61,49 v 1 a 2.006,2.006 0 0 1 -2,2 H 5 A 2.006,2.006 0 0 1 3,50 v -2 h 58 z"
+         fill="#e8e5fb"
+         id="path10648" />
+      <path
+         d="m 22,14 -6,3 v -6 z"
+         fill="#ec455a"
+         id="path10650" />
+      <path
+         d="M 8,16 V 6 H 28 V 22 H 8 Z m 8,1 6,-3 -6,-3 z"
+         fill="#78b9eb"
+         id="path10652" />
+      <path
+         d="M 33,28 20,36 7,28 Z"
+         fill="#b9b1f1"
+         id="path10654" />
+      <path
+         d="m 36,7 h 7 v 8 h -7 z"
+         fill="#e8e5fb"
+         id="path10656" />
+      <path
+         d="m 41,15 -1,7 h -3 v -7 z"
+         fill="#c7bec5"
+         id="path10658" />
+      <path
+         d="M 59.41,9.59 A 1.955,1.955 0 0 1 60,11 2.006,2.006 0 0 1 58,13 H 56 V 9 h 2 a 1.955,1.955 0 0 1 1.41,0.59 z"
+         fill="#ec455a"
+         id="path10660" />
+      <path
+         d="M 56,3 V 19 L 43,15 V 7 Z"
+         fill="#f6cc4f"
+         id="path10662" />
+      <path
+         d="m 33,9 h 3 v 4 h -3 z"
+         fill="#ec455a"
+         id="path10664" />
+      <path
+         d="M 37,26 H 55 V 38 H 37 Z"
+         fill="#9e2849"
+         id="path10666" />
+      <path
+         d="M 57,30 V 42 H 40 v -4 -8 h 15 z"
+         fill="#ec455a"
+         id="path10668" />
+      <path
+         d="m 59,15 h -2 v -1 h 1 A 3,3 0 0 0 58,8 H 57 V 3 A 0.968,0.968 0 0 0 56.59,2.2 0.991,0.991 0 0 0 55.71,2.04 L 42.85,6 H 36 a 1,1 0 0 0 -1,1 v 1 h -2 a 1,1 0 0 0 -1,1 v 4 a 1,1 0 0 0 1,1 h 2 v 1 H 29 V 6 A 1,1 0 0 0 28,5 H 8 A 1,1 0 0 0 7,6 v 9 H 5 a 3.009,3.009 0 0 0 -3,3 v 32 a 3.009,3.009 0 0 0 3,3 h 23 v 3 h -6 a 1,1 0 0 0 -1,1 v 4 a 1,1 0 0 0 1,1 h 20 a 1,1 0 0 0 1,-1 v -4 a 1,1 0 0 0 -1,-1 h -6 v -3 h 23 a 3.009,3.009 0 0 0 3,-3 V 18 a 3.009,3.009 0 0 0 -3,-3 z m -2,-5 h 1 a 1,1 0 0 1 0,2 H 57 Z M 44,7.74 55,4.35 v 13.3 L 44,14.26 Z M 37,8 h 5 v 6 h -5 z m 2.85,8 -0.72,5 H 38 V 16 Z M 34,12 v -2 h 1 v 2 z M 9,7 H 27 V 21 H 9 Z m 32,51 v 2 H 23 V 58 Z M 30,56 v -3 h 4 v 3 z m 30,-6 a 1,1 0 0 1 -1,1 H 5 A 1,1 0 0 1 4,50 v -1 h 56 z m 0,-3 H 4 V 18 a 1,1 0 0 1 1,-1 h 2 v 5 a 1,1 0 0 0 1,1 h 20 a 1,1 0 0 0 1,-1 v -5 h 7 v 5 a 1,1 0 0 0 1,1 h 3 a 1,1 0 0 0 0.99,-0.86 L 41.87,16 h 0.98 l 12.86,3.96 A 0.925,0.925 0 0 0 56,20 1.015,1.015 0 0 0 57,19 v -2 h 2 a 1,1 0 0 1 1,1 z"
+         id="path10670" />
+      <path
+         d="m 7,45 h 26 a 1,1 0 0 0 1,-1 V 28 A 1,1 0 0 0 33,27 H 7 a 1,1 0 0 0 -1,1 v 16 a 1,1 0 0 0 1,1 z M 8,43 V 29.789 l 11.476,7.063 a 1,1 0 0 0 1.048,0 L 32,29.789 V 43 Z M 10.533,29 H 29.467 L 20,34.826 Z"
+         id="path10672" />
+      <path
+         d="m 37,39 h 2 v 3 a 1,1 0 0 0 1,1 h 17 a 1,1 0 0 0 1,-1 V 30 A 1,1 0 0 0 57,29 H 56 V 26 A 1,1 0 0 0 55,25 H 37 a 1,1 0 0 0 -1,1 v 12 a 1,1 0 0 0 1,1 z m 19,2 H 41 V 31 H 56 Z M 38,27 h 16 v 2 H 40 a 1,1 0 0 0 -1,1 v 7 h -1 z"
+         id="path10674" />
+      <path
+         d="m 43,33 h 2 v 2 h -2 z"
+         id="path10676" />
+      <path
+         d="m 47,33 h 7 v 2 h -7 z"
+         id="path10678" />
+      <path
+         d="m 43,37 h 4 v 2 h -4 z"
+         id="path10680" />
+      <path
+         d="m 49,37 h 5 v 2 h -5 z"
+         id="path10682" />
+      <path
+         d="m 15.474,17.851 a 1,1 0 0 0 0.973,0.044 l 6,-3 a 1,1 0 0 0 0,-1.79 l -6,-3 A 1,1 0 0 0 15,11 v 6 a 1,1 0 0 0 0.474,0.851 z M 17,12.618 19.764,14 17,15.382 Z"
+         id="path10684" />
+    </g>
+    <g
+       transform="matrix(0.06068581,0,0,0.06449034,175.35216,42.931326)"
+       id="g10765">
+      <g
+         fill="#918291"
+         id="g10723">
+        <path
+           d="M 221,381.514 H 121 c -4.142,0 -7.5,-3.357 -7.5,-7.5 v -40 c 0,-4.143 3.358,-7.5 7.5,-7.5 h 100 c 4.142,0 7.5,3.357 7.5,7.5 v 40 c 0,4.142 -3.358,7.5 -7.5,7.5 z m -92.5,-15 h 85 v -25 h -85 z"
+           id="path10719" />
+        <path
+           d="M 391,381.514 H 291 c -4.142,0 -7.5,-3.357 -7.5,-7.5 v -40 c 0,-4.143 3.358,-7.5 7.5,-7.5 h 100 c 4.142,0 7.5,3.357 7.5,7.5 v 40 c 0,4.142 -3.358,7.5 -7.5,7.5 z m -92.5,-15 h 85 v -25 h -85 z"
+           id="path10721" />
+      </g>
+      <path
+         d="m 211,341.517 h 90 v 160.486 h -90 z"
+         fill="#aa9ea9"
+         id="path10725" />
+      <path
+         d="m 301,341.514 v 30 h -10 c -16.569,0 -30,13.431 -30,30 v 100.49 h -50 v -160.49 z"
+         fill="#918291"
+         id="path10727" />
+      <path
+         d="M 346,512 H 166 c -4.142,0 -7.5,-3.357 -7.5,-7.5 0,-4.143 3.358,-7.5 7.5,-7.5 h 180 c 4.142,0 7.5,3.357 7.5,7.5 0,4.143 -3.358,7.5 -7.5,7.5 z"
+         fill="#aa9ea9"
+         id="path10729" />
+      <path
+         d="m 37.5,41.994 c -16.569,0 -30,13.431 -30,30 v 242.02 c 0,16.569 13.431,30 30,30 h 437 c 16.569,0 30,-13.431 30,-30 V 71.994 c 0,-16.569 -13.431,-30 -30,-30 z"
+         fill="#f5f8f9"
+         id="path10731" />
+      <path
+         d="M 37.5,307.014 V 78.994 c 0,-3.866 3.134,-7 7,-7 h 423 c 3.866,0 7,3.134 7,7 v 228.02 c 0,3.866 -3.134,7 -7,7 h -423 c -3.866,0 -7,-3.134 -7,-7 z"
+         fill="#8ac9fe"
+         id="path10733" />
+      <path
+         d="m 474.5,78.99 v 23 h -337 c -16.569,0 -30,13.431 -30,30 v 182.02 h -63 c -3.866,0 -7,-3.134 -7,-7 V 78.99 c 0,-3.866 3.134,-7 7,-7 h 423 c 3.866,0 7,3.134 7,7 z"
+         fill="#60b7ff"
+         id="path10735" />
+      <path
+         d="M 301,71.994 H 211 V 37 c 0,-3.866 3.134,-7 7,-7 h 76 c 3.866,0 7,3.134 7,7 z"
+         fill="#fee97d"
+         id="path10737" />
+      <g
+         id="g10741">
+        <path
+           d="m 256,37.5 c -4.142,0 -7.5,-3.357 -7.5,-7.5 V 7.5 c 0,-4.143 3.358,-7.5 7.5,-7.5 4.142,0 7.5,3.357 7.5,7.5 V 30 c 0,4.143 -3.358,7.5 -7.5,7.5 z"
+           fill="#a79ba7"
+           id="path10739" />
+      </g>
+      <path
+         d="m 158.25,71.994 h -90 V 37 c 0,-3.866 3.134,-7 7,-7 h 76 c 3.866,0 7,3.134 7,7 z"
+         fill="#fee97d"
+         id="path10743" />
+      <g
+         id="g10747">
+        <path
+           d="m 113.25,37.5 c -4.142,0 -7.5,-3.357 -7.5,-7.5 V 7.5 c 0,-4.143 3.358,-7.5 7.5,-7.5 4.142,0 7.5,3.357 7.5,7.5 V 30 c 0,4.143 -3.358,7.5 -7.5,7.5 z"
+           fill="#a79ba7"
+           id="path10745" />
+      </g>
+      <path
+         d="m 443.75,71.994 h -90 V 37 c 0,-3.866 3.134,-7 7,-7 h 76 c 3.866,0 7,3.134 7,7 z"
+         fill="#fee97d"
+         id="path10749" />
+      <g
+         id="g10753">
+        <path
+           d="m 398.75,37.5 c -4.142,0 -7.5,-3.357 -7.5,-7.5 V 7.5 c 0,-4.143 3.358,-7.5 7.5,-7.5 4.142,0 7.5,3.357 7.5,7.5 V 30 c 0,4.143 -3.358,7.5 -7.5,7.5 z"
+           fill="#a79ba7"
+           id="path10751" />
+      </g>
+      <g
+         id="g10763">
+        <path
+           d="m 218.711,283.331 c -8.624,0 -15.614,-6.991 -15.614,-15.614 v -53.783 h 31.229 v 53.783 c -0.001,8.624 -6.992,15.614 -15.615,15.614 z"
+           fill="#a79ba7"
+           id="path10755" />
+        <path
+           d="m 249.506,216.102 h -45.542 c -17.966,0 -32.53,-14.564 -32.53,-32.53 0,-17.966 14.564,-32.53 32.53,-32.53 h 45.542 z"
+           fill="#f07281"
+           id="path10757" />
+        <path
+           d="m 314.566,248.633 -66.719,-32.531 v -65.06 l 66.719,-32.53 z"
+           fill="#f5f8f9"
+           id="path10759" />
+        <path
+           d="m 325.566,261.645 c -8.284,0 -15,-6.716 -15,-15 V 120.5 c 0,-8.284 6.716,-15 15,-15 8.284,0 15,6.716 15,15 v 126.145 c 0,8.284 -6.715,15 -15,15 z"
+           fill="#a79ba7"
+           id="path10761" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.05951959,0,0,0.05635608,2.5448113,44.319638)"
+       id="g10846">
+      <path
+         d="m 486.163,4.924 v 360.677 c 0,2.72 -2.205,4.914 -4.924,4.914 H 198.835 V 2.328 c 0.062,-0.567 0.299,-1.092 0.68,-1.484 C 199.989,0.319 200.679,0 201.431,0 h 279.807 c 2.72,0 4.925,2.205 4.925,4.924 z"
+         fill="#4073c8"
+         id="path10798" />
+      <path
+         d="m 459.879,0 v 370.519 h 21.36 c 2.717,0 4.92,-2.203 4.92,-4.92 V 4.92 c 0,-2.717 -2.203,-4.92 -4.92,-4.92 z"
+         fill="#3b66c1"
+         id="path10800" />
+      <path
+         d="M 312.722,141.485 H 198.835 V 2.328 c 0.062,-0.567 0.299,-1.092 0.68,-1.484 l 3.976,4.924 107.119,132.565 1.02,1.257 c 0.463,0.576 0.834,1.215 1.092,1.895 z"
+         fill="#26457d"
+         id="path10802" />
+      <path
+         d="M 312.722,141.485 H 284.928 L 198.835,34.944 V 2.328 c 0.062,-0.567 0.299,-1.092 0.68,-1.484 l 3.976,4.924 107.119,132.565 1.02,1.257 c 0.463,0.576 0.834,1.215 1.092,1.895 z"
+         fill="#21386b"
+         id="path10804" />
+      <path
+         d="m 313.165,143.916 v 363.159 c 0,2.72 -2.205,4.924 -4.914,4.924 H 30.761 c -2.72,0 -4.924,-2.205 -4.924,-4.924 V 146.399 c 0,-2.72 2.205,-4.914 4.924,-4.914 h 281.96 c 0.289,0.773 0.444,1.597 0.444,2.431 z"
+         fill="#f9f6f6"
+         id="path10806" />
+      <path
+         d="m 313.165,143.916 v 363.159 c 0,2.72 -2.205,4.924 -4.914,4.924 H 284.835 V 141.485 h 27.887 c 0.288,0.773 0.443,1.597 0.443,2.431 z"
+         fill="#dddaec"
+         id="path10808" />
+      <path
+         d="M 250.888,326.741 H 88.121 c -5.019,0 -9.087,-4.068 -9.087,-9.087 V 205.765 c 0,-5.019 4.068,-9.087 9.087,-9.087 h 162.766 c 5.019,0 9.087,4.068 9.087,9.087 v 111.889 c 0.001,5.019 -4.068,9.087 -9.086,9.087 z"
+         fill="#9dc6fb"
+         id="path10810" />
+      <path
+         d="m 250.888,196.679 h -27.904 c 5.019,0 9.087,4.068 9.087,9.087 v 111.889 c 0,5.019 -4.068,9.087 -9.087,9.087 h 27.904 c 5.019,0 9.087,-4.068 9.087,-9.087 v -111.89 c 0,-5.018 -4.069,-9.086 -9.087,-9.086 z"
+         fill="#80b4fb"
+         id="path10812" />
+      <g
+         id="g10816">
+        <path
+           d="M 238.636,384.236 H 100.373 c -4.268,0 -7.726,-3.459 -7.726,-7.726 0,-4.267 3.459,-7.726 7.726,-7.726 h 138.264 c 4.268,0 7.726,3.459 7.726,7.726 0,4.267 -3.459,7.726 -7.727,7.726 z"
+           fill="#4073c8"
+           id="path10814" />
+      </g>
+      <g
+         id="g10820">
+        <path
+           d="M 238.636,427.151 H 100.373 c -4.268,0 -7.726,-3.459 -7.726,-7.726 0,-4.267 3.459,-7.726 7.726,-7.726 h 138.264 c 4.268,0 7.726,3.459 7.726,7.726 0,4.267 -3.459,7.726 -7.727,7.726 z"
+           fill="#4073c8"
+           id="path10818" />
+      </g>
+      <g
+         id="g10824">
+        <path
+           d="M 238.636,470.068 H 100.373 c -4.268,0 -7.726,-3.459 -7.726,-7.726 0,-4.267 3.459,-7.726 7.726,-7.726 h 138.264 c 4.268,0 7.726,3.459 7.726,7.726 0,4.267 -3.459,7.726 -7.727,7.726 z"
+           fill="#4073c8"
+           id="path10822" />
+      </g>
+      <path
+         d="m 431.977,114.024 h -60.591 c -4.816,0 -8.721,-3.904 -8.721,-8.721 V 44.712 c 0,-4.816 3.904,-8.721 8.721,-8.721 h 60.591 c 4.816,0 8.721,3.904 8.721,8.721 v 60.591 c 0,4.816 -3.905,8.721 -8.721,8.721 z"
+         fill="#f9f6f6"
+         id="path10826" />
+      <path
+         d="m 431.977,35.991 h -24.98 c 4.816,0 8.721,3.904 8.721,8.721 v 60.592 c 0,4.816 -3.904,8.721 -8.721,8.721 h 24.98 c 4.816,0 8.721,-3.904 8.721,-8.721 V 44.711 c 0,-4.816 -3.904,-8.72 -8.721,-8.72 z"
+         fill="#dddaec"
+         id="path10828" />
+      <g
+         id="g10832">
+        <path
+           d="m 440.698,176.977 h -84.355 c -4.268,0 -7.726,-3.459 -7.726,-7.726 0,-4.268 3.459,-7.726 7.726,-7.726 h 84.355 c 4.268,0 7.726,3.459 7.726,7.726 0,4.268 -3.459,7.726 -7.726,7.726 z"
+           fill="#f9f6f6"
+           id="path10830" />
+      </g>
+      <g
+         id="g10836">
+        <path
+           d="m 440.698,222.345 h -84.355 c -4.268,0 -7.726,-3.459 -7.726,-7.726 0,-4.268 3.459,-7.726 7.726,-7.726 h 84.355 c 4.268,0 7.726,3.459 7.726,7.726 0,4.267 -3.459,7.726 -7.726,7.726 z"
+           fill="#f9f6f6"
+           id="path10834" />
+      </g>
+      <g
+         id="g10840">
+        <path
+           d="m 440.698,267.711 h -84.355 c -4.268,0 -7.726,-3.459 -7.726,-7.726 0,-4.267 3.459,-7.726 7.726,-7.726 h 84.355 c 4.268,0 7.726,3.459 7.726,7.726 0,4.267 -3.459,7.726 -7.726,7.726 z"
+           fill="#f9f6f6"
+           id="path10838" />
+      </g>
+      <g
+         id="g10844">
+        <path
+           d="m 440.698,313.077 h -84.355 c -4.268,0 -7.726,-3.459 -7.726,-7.726 0,-4.267 3.459,-7.726 7.726,-7.726 h 84.355 c 4.268,0 7.726,3.459 7.726,7.726 0,4.267 -3.459,7.726 -7.726,7.726 z"
+           fill="#f9f6f6"
+           id="path10842" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.07187942,0,0,0.06878607,171.32427,103.95453)"
+       id="g10924">
+	<g
+   id="g10900">
+		<g
+   id="g10884">
+			<path
+   style="fill:#e5e9ea"
+   d="M 487.288,229.204 293.935,452.932 c -10.499,12.148 -28.859,13.485 -41.007,2.986 L 91.641,316.53 C 79.493,306.031 78.156,287.671 88.655,275.523 L 282.008,51.795 C 292.513,39.64 310.873,38.303 323.021,48.802 L 484.307,188.19 c 12.148,10.499 13.486,28.859 2.981,41.014 z"
+   id="path10880" />
+
+			<path
+   style="fill:#fcb65f"
+   d="M 487.288,229.204 370.945,363.823 165.665,186.414 282.008,51.795 C 292.513,39.64 310.873,38.303 323.021,48.802 L 484.307,188.19 c 12.148,10.499 13.486,28.859 2.981,41.014 z"
+   id="path10882" />
+
+		</g>
+
+		<g
+   id="g10890">
+			<path
+   style="fill:#36a6ce"
+   d="m 389.48,161.503 -94.033,280.352 c -5.106,15.223 -21.586,23.425 -36.809,18.319 L 56.531,392.386 C 41.308,387.28 33.106,370.8 38.212,355.577 L 132.245,75.225 c 5.109,-15.232 21.589,-23.434 36.812,-18.328 l 202.107,67.788 c 15.223,5.106 23.425,21.587 18.316,36.818 z"
+   id="path10886" />
+
+			<path
+   style="fill:#e5e9ea"
+   d="M 389.48,161.503 332.9,330.194 75.665,243.915 132.245,75.224 c 5.109,-15.232 21.589,-23.434 36.812,-18.328 l 202.107,67.788 c 15.223,5.107 23.425,21.588 18.316,36.819 z"
+   id="path10888" />
+
+		</g>
+
+		<g
+   id="g10898">
+			<path
+   style="fill:#e5e9ea"
+   d="m 278.821,135.354 v 295.702 c 0,16.056 -13.017,29.073 -29.073,29.073 H 36.575 c -16.056,0 -29.073,-13.017 -29.073,-29.073 V 135.354 c 0,-16.066 13.017,-29.082 29.073,-29.082 h 213.172 c 16.057,-0.001 29.074,13.016 29.074,29.082 z"
+   id="path10892" />
+
+			<path
+   style="fill:#fa3f68"
+   d="M 278.821,135.354 V 313.28 H 7.502 V 135.354 c 0,-16.066 13.017,-29.082 29.073,-29.082 h 213.172 c 16.057,-0.001 29.074,13.016 29.074,29.082 z"
+   id="path10894" />
+
+			<polygon
+   style="fill:#fcb65f"
+   points="105.51,224.814 67.859,188.114 119.892,180.553 143.161,133.403 166.431,180.553 218.463,188.114 180.812,224.814 189.701,276.636 143.161,252.169 96.622,276.636 "
+   id="polygon10896" />
+
+		</g>
+
+	</g>
+
+	<g
+   id="g10922">
+		<path
+   d="M 489.21,182.515 463.956,160.69 c -3.133,-2.709 -7.87,-2.363 -10.578,0.771 -2.708,3.134 -2.364,7.87 0.771,10.578 l 25.253,21.825 c 9.002,7.78 9.996,21.433 2.217,30.435 L 317.587,414.098 c -2.708,3.134 -2.364,7.87 0.77,10.579 1.418,1.226 3.164,1.826 4.901,1.826 2.104,0 4.195,-0.88 5.678,-2.596 l 164.031,-189.8 c 13.188,-15.259 11.502,-38.404 -3.757,-51.592 z"
+   id="path10902" />
+
+		<path
+   d="m 265.973,70.345 c 3.136,2.71 7.871,2.363 10.579,-0.77 l 11.131,-12.88 c 3.769,-4.36 9.01,-6.993 14.759,-7.411 5.749,-0.422 11.315,1.426 15.676,5.195 l 116.822,100.96 c 1.418,1.226 3.164,1.826 4.901,1.826 2.104,0 4.195,-0.88 5.678,-2.596 2.708,-3.134 2.364,-7.871 -0.77,-10.579 L 327.927,43.13 c -7.393,-6.389 -16.832,-9.513 -26.575,-8.807 -9.745,0.709 -18.629,5.171 -25.018,12.563 l -11.131,12.88 c -2.708,3.135 -2.364,7.871 0.77,10.579 z"
+   id="path10904" />
+
+		<path
+   d="M 373.547,117.575 171.445,49.788 c -19.124,-6.414 -39.897,3.926 -46.311,23.047 l -2.666,7.948 c -1.317,3.927 0.799,8.179 4.726,9.496 3.928,1.317 8.178,-0.798 9.496,-4.726 l 2.666,-7.948 c 3.784,-11.281 16.037,-17.381 27.319,-13.596 l 202.103,67.787 c 11.281,3.784 17.38,16.039 13.596,27.319 l -94.032,280.352 c -1.317,3.927 0.799,8.178 4.726,9.496 0.791,0.265 1.595,0.391 2.386,0.391 3.135,0 6.058,-1.981 7.11,-5.117 l 94.032,-280.351 c 6.413,-19.122 -3.926,-39.897 -23.049,-46.311 z"
+   id="path10906" />
+
+		<path
+   d="M 249.746,98.772 H 36.578 C 16.409,98.772 0,115.181 0,135.35 v 295.701 c 0,20.169 16.409,36.578 36.578,36.578 h 213.168 c 20.169,0 36.578,-16.409 36.578,-36.578 V 135.35 c 0,-20.169 -16.408,-36.578 -36.578,-36.578 z m 21.578,332.279 c 0,11.898 -9.68,21.578 -21.578,21.578 H 36.578 C 24.68,452.629 15,442.949 15,431.051 V 135.35 c 0,-11.898 9.68,-21.578 21.578,-21.578 h 213.168 c 11.898,0 21.578,9.68 21.578,21.578 z"
+   id="path10908" />
+
+		<path
+   d="M 253.65,305.778 H 32.675 c -4.142,0 -7.5,3.358 -7.5,7.5 0,4.142 3.358,7.5 7.5,7.5 H 253.65 c 4.142,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.358,-7.5 -7.5,-7.5 z"
+   id="path10910" />
+
+		<path
+   d="m 218.685,348.669 h -92.876 c -4.142,0 -7.5,3.358 -7.5,7.5 0,4.142 3.358,7.5 7.5,7.5 h 92.876 c 4.142,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.358,-7.5 -7.5,-7.5 z"
+   id="path10912" />
+
+		<path
+   d="m 67.639,363.669 h 33.168 c 4.142,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.358,-7.5 -7.5,-7.5 H 67.639 c -4.142,0 -7.5,3.358 -7.5,7.5 0,4.142 3.358,7.5 7.5,7.5 z"
+   id="path10914" />
+
+		<path
+   d="M 218.685,377.34 H 67.639 c -4.142,0 -7.5,3.358 -7.5,7.5 0,4.142 3.358,7.5 7.5,7.5 h 151.046 c 4.142,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.358,-7.5 -7.5,-7.5 z"
+   id="path10916" />
+
+		<path
+   d="M 218.685,406.011 H 67.639 c -4.142,0 -7.5,3.358 -7.5,7.5 0,4.142 3.358,7.5 7.5,7.5 h 151.046 c 4.142,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.358,-7.5 -7.5,-7.5 z"
+   id="path10918" />
+
+		<path
+   d="m 97.452,227.432 -8.222,47.937 c -0.482,2.813 0.674,5.657 2.984,7.335 1.307,0.949 2.854,1.432 4.409,1.432 1.193,0 2.392,-0.285 3.489,-0.861 l 43.049,-22.633 43.049,22.633 c 2.527,1.328 5.589,1.107 7.898,-0.571 2.31,-1.678 3.466,-4.522 2.984,-7.335 l -8.222,-47.937 34.827,-33.948 c 2.044,-1.993 2.78,-4.973 1.898,-7.688 -0.882,-2.715 -3.229,-4.694 -6.054,-5.104 l -48.13,-6.994 -21.524,-43.613 c -1.264,-2.56 -3.871,-4.181 -6.726,-4.181 -2.854,0 -5.462,1.621 -6.726,4.181 l -21.525,43.613 -48.13,6.994 c -2.825,0.41 -5.172,2.389 -6.054,5.104 -0.882,2.715 -0.146,5.695 1.898,7.688 z m 23.518,-39.458 c 2.443,-0.355 4.554,-1.889 5.647,-4.103 l 16.544,-33.522 16.544,33.522 c 1.092,2.213 3.204,3.748 5.647,4.103 l 36.994,5.376 -26.769,26.093 c -1.768,1.723 -2.575,4.206 -2.157,6.639 l 6.319,36.844 -33.088,-17.396 c -2.186,-1.148 -4.796,-1.148 -6.98,0 l -33.088,17.396 6.319,-36.844 c 0.417,-2.433 -0.389,-4.916 -2.157,-6.639 L 83.977,193.35 Z"
+   id="path10920" />
+
+	</g>
+
+</g>
+    <text
+       transform="matrix(1.0757692,0,0,1.0938204,-6.6577514,-48.900339)"
+       y="0"
+       x="-0.86971575"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.05;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0.0926042px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10958);fill:#ffffff;fill-opacity:1"
+       id="text10956"
+       xml:space="preserve"><tspan
+         x="57.559693"
+         y="88.107721"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Si quieres anunciar tu negocio, </tspan></tspan><tspan
+         x="68.915011"
+         y="95.516062"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">informacion o servicios,
+</tspan></tspan><tspan
+         x="48.04516"
+         y="102.9244"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">a traves de imagenes, promociones o
+</tspan></tspan><tspan
+         x="43.643152"
+         y="110.33274"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">publicidad, seyne corporation te puede 
+</tspan></tspan><tspan
+         x="73.518764"
+         y="117.74108"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">realizar ese trabajo.</tspan></tspan></text>
+    <path
+       id="path10962"
+       d="m 153.43322,103.036 v 39.70192"
+       style="fill:none;stroke:#6d6d6d;stroke-width:0.965;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       transform="translate(18.879235,11.383068)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10966);"
+       id="text10964"
+       xml:space="preserve"><tspan
+         x="15.269531"
+         y="105.47148"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">•Volantes  •Tripticos  •Folletos </tspan></tspan></text>
+    <text
+       transform="translate(-15.825241,6.3856234)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10972);"
+       id="text10970"
+       xml:space="preserve"><tspan
+         x="38.591797"
+         y="124.07304"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">•Promociones  •Publicidad  •Infografías</tspan></tspan></text>
+    <text
+       transform="matrix(1.1261865,0,0,1.0519692,-0.46588989,-11.123726)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.9645px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect10978);fill:#f95400;fill-opacity:1;"
+       id="text10976"
+       xml:space="preserve"><tspan
+         x="49.419922"
+         y="164.37349"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.9645px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f95400;fill-opacity:1">Rango - Precio</tspan></tspan></text>
+    <rect
+       ry="3.8967566"
+       y="179.48599"
+       x="8.8843441"
+       height="11.105426"
+       width="198.5096"
+       id="rect10982"
+       style="fill:#f12929;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583" />
+    <rect
+       style="fill:#f12929;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264436"
+       id="rect10982-1"
+       width="198.28882"
+       height="11.105426"
+       x="9.0231638"
+       y="194.31137"
+       ry="3.8967566" />
+    <rect
+       style="fill:#f12929;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264435"
+       id="rect10982-4"
+       width="198.28882"
+       height="11.105426"
+       x="9.0231638"
+       y="209.3374"
+       ry="3.8967566" />
+    <text
+       transform="translate(12.322466,0.59277578)"
+       style="font-size:6.35px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11011);font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       id="text11009"
+       xml:space="preserve"><tspan
+         x="11.386719"
+         y="186.38624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1 seyne-promocion</tspan></tspan></text>
+    <text
+       style="font-family:'Britannic Bold';font-size:6.35px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Britannic Bold, Normal';white-space:pre;shape-inside:url(#rect11017);"
+       id="text11015"
+       xml:space="preserve" />
+    <text
+       transform="translate(12.267223,15.34681)"
+       xml:space="preserve"
+       id="text11009-8"
+       style="font-size:6.35px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11011-3);font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"><tspan
+         x="11.386719"
+         y="186.38624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2 seyne-promocion</tspan></tspan></text>
+    <text
+       transform="translate(4.3709986,30.266991)"
+       xml:space="preserve"
+       id="text11009-0"
+       style="font-size:6.35px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect11011-1);font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"><tspan
+         x="11.386719"
+         y="186.38624"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Más de 3 seyne-promocion</tspan></tspan></text>
+    <rect
+       rx="0"
+       ry="4.0722756"
+       y="179.49687"
+       x="150.43677"
+       height="11.094544"
+       width="57.055305"
+       id="rect11068"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.201817" />
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.201469"
+       id="rect11068-6"
+       width="56.85899"
+       height="11.094544"
+       x="150.45299"
+       y="194.32225"
+       ry="4.0722756"
+       rx="0" />
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.201121"
+       id="rect11068-9"
+       width="56.66267"
+       height="11.094544"
+       x="150.64931"
+       y="209.3374"
+       ry="4.0722756"
+       rx="0" />
+    <use
+       transform="matrix(0.46947855,0,0,0.44330356,137.33908,180.80739)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       id="use14208"
+       style="fill:#0c8200;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       xlink:href="#Cashier_Inv" />
+    <use
+       xlink:href="#Cashier_Inv"
+       style="fill:#0c8200;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="use14208-6"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.46947855,0,0,0.44330355,137.29,195.72758)" />
+    <use
+       xlink:href="#Cashier_Inv"
+       style="fill:#0c8200;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="use14208-5"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.46947855,0,0,0.44330355,137.48632,211.33487)" />
+    <text
+       id="text14271"
+       y="187.87648"
+       x="168.90771"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="187.87648"
+         x="168.90771"
+         id="tspan14269"
+         sodipodi:role="line">$ 50</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="169.75255"
+       y="202.80511"
+       id="text14271-3"><tspan
+         sodipodi:role="line"
+         id="tspan14269-3"
+         x="169.75255"
+         y="202.80511"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">$ 50</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="170.14517"
+       y="217.91389"
+       id="text14271-5"><tspan
+         sodipodi:role="line"
+         id="tspan14269-7"
+         x="170.14517"
+         y="217.91389"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">$ 50</tspan></text>
+    <path
+       style="fill:none;stroke:#6d6d6d;stroke-width:0.835141;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.472175,230.13725 v 29.73562"
+       id="path10962-1" />
+    <text
+       transform="translate(-21.398679,1.9631815)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14316);"
+       id="text14314"
+       xml:space="preserve"><tspan
+         x="77.742188"
+         y="244.25202"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">NOTA : No se incluye impresión</tspan></tspan></text>
+  </g>
+</svg>
