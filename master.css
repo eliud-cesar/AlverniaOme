@@ -282,8 +282,13 @@ img {
 
 
 .caminata {
-    width: 380px;
-    display: inline-block;
+    width: 17em;
+    display: block;
+    margin: auto;
+}
+
+.pie-caminata {
+    text-align: center;
 }
 
 
