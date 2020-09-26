@@ -276,8 +276,8 @@ img {
 
 
 .presentation {
-    width: 100%;
-    
+    width: 99%;
+    /* height: 100px; */
 }
 
 
@@ -340,11 +340,17 @@ h3 {
 }
 
 
+/* --texto de la pagina-- */
+font-family: 'Roboto', sans-serif;
 
 
 
 
 /* -------------FOTTER-------------- */
+
+.derechos {
+    color: white;
+}
 
 .cabecera-barr{
     font:13px Arial, Helvetica, sans-serif;
