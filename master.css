@@ -2,7 +2,7 @@
 
 
 /* ----------------HEADER---------------- */
-
+/* 
 
 .cabecera-barra {
     position: fixed;
@@ -17,10 +17,10 @@
     max-width: 1200px;
     text-align: center;
     margin: 0 auto;
-}
+} */
 
 /* Logotipo */
-
+/* 
 .introdution {
     float: left;
     width: 160px;
@@ -36,10 +36,10 @@
 
 .cabecera-barra{
     color: #d32929;
-}
+} */
 
 /* barra 1*/
-
+/* 
 .cabecera-barra .cabecera-barra-1{
     background-color:#536dc2;
     box-shadow:0 1px 1px #ccc;
@@ -77,11 +77,11 @@
 .menu a:hover {
     color: rgb(63, 255, 5);
     border-bottom: 5px solid rgb(63, 255, 5);;
-}
+} */
 
 /*  Hacemos responsive la cabecera usted podrá adicionar mas propiedades para diferentes dispositivos solo se ha usado dos para este demo . */
  
-@media all and (max-width: 800px) {
+/* @media all and (max-width: 800px) {
  
     .cabecera-barra .cabecera-barra-2 nav{
         font-size:14px;
@@ -134,11 +134,141 @@
     .cabecera-barra .cabecera-barra-2 nav i.fa{
         margin-left:0;
     }
+} */
+
+
+/* -------------------HEADER---------------------- */
+
+
+/* Estilos generales */
+.header, .wrapper, .logo-img, .nav, .menu, .item, .link, .icon, .icon-image, .active, header, body{
+    margin    : 0;
+    padding   : 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-nav       : rgb(20, 31, 131);
+    --bg           : #FBFBFE;
+    --blue         : #ffffff;
+    --grey         : #ffffff;
+    --white        : rgb(20, 31, 131);
+    --header-height: 4rem;
+}
+
+body{
+    background: var(--bg);
+}
+
+   /* Estilos header */
+.header{
+    height       : var(--header-height);
+    width        : 100%;
+    position     : fixed;
+    top          : 0;
+    background   : var(--white);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.logo-img{
+    height : 2rem;
+    display: block;
+}
+
+.wrapper{
+    height         : 100%;
+    width          : 90%;
+    max-width      : 1200px;
+    margin         : 0 auto;
+    display        : flex;
+    justify-content: center;
+    align-items    : center ;
+}
+
+   /* Estilos nav */
+.nav{
+    width     : 100%;
+    position  : fixed;
+    bottom    : 0;
+    background: var(--bg-nav);
+}
+
+.menu{
+    display   : flex;
+    list-style: none;
+}
+
+.item{
+    width: 25%;
+}
+
+.link{
+    display        : block;
+    color          : var(--grey);
+    font-size      : 0.75em;
+    font-family    : "Raleway", sans-serif;
+    text-align     : center;
+    text-decoration: none;
+    padding        : 0.5rem 0;
+}
+
+.icon{
+    --size : 1.5rem;
+    width  : var(--size);
+    height : var(--size);
+    display: block;
+    margin : 0 auto 0.25rem;
+    fill   : var(--grey);
+}
+
+.icon-image{
+    border-radius: 50%;
+}
+
+.active{
+    color: var(--blue);
+}
+
+.active .icon{
+    fill: var(--blue);
+}
+
+
+   /* Responsive */
+@media only screen and (min-width: 1024px){
+
+    .wrapper{
+    justify-content: space-between;
+    }
+
+    .nav{
+    width      : max-content;
+    height     : var(--header-height);
+    position   : relative;
+    display    : flex;
+    align-items: center;
+    background : none;
+    }
+
+    .item{
+    margin-left: 1.5rem;
+    }
+
+    .link{
+    font-size: 0.9rem;
+    }
+
+    .icon{
+    display: none;
+    }
 }
 
 
 
 
+
+
+/* ---------------------------------------------------- */
 
 
 /* ---------------PAGINA MASTER----------------- */
@@ -278,6 +408,7 @@ img {
 .presentation {
     width: 99%;
     /* height: 100px; */
+    margin-top: 0;
 }
 
 
@@ -327,10 +458,10 @@ h3 {
     width: 100%;
 }
 
-.parrafo {
+/* .parrafo {
     color: rgb(19, 23, 58);
 }
-
+ */
 
 
 #version {
@@ -349,6 +480,22 @@ h3 {
 .title-de-alvernia {
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -471,6 +618,10 @@ h3 {
 /*  Hacemos responsive la cabecera usted podrá adicionar mas propiedades para diferentes dispositivos solo se ha usado dos para este demo . */
 
 @media all and (max-width: 800px) {
+
+    .cabecera-barr {
+        margin-bottom: 4em;
+    }
 
     .cabecera-barr .cabecera-barr-2 nav{
         font-size:14px;
