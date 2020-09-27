@@ -441,7 +441,7 @@ p,ul {
 
 audio {
     width: 100%;
-    position: sticky;
+    /* position: sticky; */
 }
 
 .comision {
