@@ -362,6 +362,7 @@ aside > h3 {
 .lideres {
     color: white;
     font-size: 1.2rem;
+    margin-left: .8em;
 }
 
 /* COMISIONES */
@@ -430,8 +431,10 @@ figure {
 
 
 p,ul {
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: rgb(255, 255, 255);
+    margin-left: .8em;
+    margin-right: .8em;
 }
 
 .san {
@@ -468,6 +471,7 @@ h3 {
     color: rgb(167, 165, 165);
     font-size: 1.1rem;
     text-align: right;
+    margin-right: 1em;
 }
 
 
@@ -480,8 +484,6 @@ h3 {
 .title-de-alvernia {
     text-align: center;
 }
-
-
 
 
 
