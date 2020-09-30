@@ -378,19 +378,23 @@ img {
 /*  Hacemos responsive la cabecera usted podrá adicionar mas propiedades para diferentes dispositivos solo se ha usado dos para este demo . */
 
 @media all and (max-width: 800px) {
-    
+
+    .cabecera-barr {
+        margin-bottom: 4em;
+    }
+
     .cabecera-barr .cabecera-barr-2 nav{
         font-size:14px;
     }
-    
+
 }
 
 @media all and (max-width: 600px) {
-    
+
     .cabecera-barr .cabecera-barr-1{
         padding:25px 0;
     }
-    
+
     .cabecera-barr .cabecera-barr-1 h1 {
         float: none;
         margin: -10px 0 8px;
@@ -398,33 +402,32 @@ img {
         font-size: 24px;
         line-height: 1;
     }
-    
+
     .cabecera-barr .cabecera-barr-1 nav {
         margin: 0;
         float: none;
         font-size:14px;
     }
-    
+
     .cabecera-barr .cabecera-barr-2{
         padding: 20px 0;
     }
-    
+
     .cabecera-barr .cabecera-barr-2 h2{
         float:none;
         margin: 0 0 12px;
     }
-    
+
     .cabecera-barr .cabecera-barr-2 nav{
         text-align: center;
     }
-    
+
     .cabecera-barr .cabecera-barr-2 nav a{
         display: block;
         padding: 8px;
     }
-    
+
     .cabecera-barr .cabecera-barr-2 nav i.fa{
         margin-left:0;
     }
-            }
-
+}

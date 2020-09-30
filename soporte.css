@@ -290,6 +290,10 @@ h1 {
 
 @media all and (max-width: 800px) {
 
+    .cabecera-barr {
+        margin-bottom: 4em;
+    }
+
     .cabecera-barr .cabecera-barr-2 nav{
         font-size:14px;
     }
