@@ -263,12 +263,12 @@ body{
     }
 }
 
-
-
-
-
-
 /* ---------------------------------------------------- */
+
+
+
+
+
 
 
 /* ---------------PAGINA MASTER----------------- */
@@ -407,9 +407,10 @@ img {
 
 
 .presentation {
-    width: 99%;
-    /* height: 100px; */
+    width: 50%;
+    height: 60%;
     margin-top: 0;
+    background-color: red;
 }
 
 
@@ -431,7 +432,7 @@ figure {
 
 
 p,ul {
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: rgb(255, 255, 255);
     margin-left: .8em;
     margin-right: .8em;
@@ -487,7 +488,15 @@ h3 {
 
 
 
+@media all and (max-width: 800px) {
+    .presentation {
+        width: 100%;
+    }
 
+    p,ul {
+        font-size: 1rem;
+    }
+}
 
 
 

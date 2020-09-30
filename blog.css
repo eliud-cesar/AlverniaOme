@@ -1,138 +1,135 @@
-/* ----------------HEADER---------------- */
+/* -------------------HEADER---------------------- */
 
 
-.cabecera-barra {
-    position: fixed;
-    width: 100%;
-}
-
-.cabecera-barra{
-    font:13px Arial, Helvetica, sans-serif;
-}
- 
-.cabecera-barra .cabecera-separador{
-    max-width: 1200px;
-    text-align: center;
-    margin: 0 auto;
-}
- 
-/* Logotipo */
-
-.introdution {
-    float: left;
-    width: 160px;
-    margin-top: -10px;
-}
-
-.cabecera-barra h1{
-    float: left;
-    font: normal 28px Cookie, Arial, Helvetica, sans-serif;
-    line-height: 40px;
-    margin: 0;
-}
- 
-.cabecera-barra{
-    color: #d32929;
-}
- 
-/* barra 1*/
- 
-.cabecera-barra .cabecera-barra-1{
-    background-color:#536dc2;
-    box-shadow:0 1px 1px #ccc;
-    padding: 20px 40px;
-    height: 80px;
-    color: #ffffff;
+/* Estilos generales */
+.header, .wrapper, .logo-img, .nav, .menu, .item, .link, .icon, .icon-image, .active, header, body{
+    margin    : 0;
+    padding   : 0;
     box-sizing: border-box;
 }
- 
-.cabecera-barra .cabecera-barra-1 a {
-    color: #ffffff;
+
+:root{
+    --bg-nav       : rgb(20, 31, 131);
+    --bg           : #FBFBFE;
+    --blue         : #ffffff;
+    --grey         : #ffffff;
+    --white        : rgb(20, 31, 131);
+    --header-height: 4rem;
+}
+
+body{
+    background: var(--bg);
+}
+
+   /* Estilos header */
+.header{
+    height       : var(--header-height);
+    width        : 100%;
+    position     : fixed;
+    top          : 0;
+    background   : var(--white);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.logo-img{
+    height : 2rem;
+    display: block;
+}
+
+.wrapper{
+    height         : 100%;
+    width          : 90%;
+    max-width      : 1200px;
+    margin         : 0 auto;
+    display        : flex;
+    justify-content: center;
+    align-items    : center ;
+}
+
+   /* Estilos nav */
+.nav{
+    width     : 100%;
+    position  : fixed;
+    bottom    : 0;
+    background: var(--bg-nav);
+}
+
+.menu{
+    display   : flex;
+    list-style: none;
+}
+
+.item{
+    width: 25%;
+}
+
+.link{
+    display        : block;
+    color          : var(--grey);
+    font-size      : 0.75em;
+    font-family    : "Raleway", sans-serif;
+    text-align     : center;
     text-decoration: none;
-}
- 
-.cabecera-barra .cabecera-barra-1 nav {
-    font:14px Arial, Helvetica, sans-serif;
-    line-height: 40px;
-    float: right;
-    margin: 0 0 0 60px;
-    padding: 0;
-}
- 
-.cabecera-barra .cabecera-barra-1 nav a{
-    display: inline-block;
-    padding: 0 5px;
-    opacity: 0.9;
-    text-decoration:none;
-    line-height: 1;
-}
- 
-.cabecera-barra .cabecera-barra-1 nav a:hover {
-    opacity: 1;
+    padding        : 0.5rem 0;
 }
 
-.menu a:hover {
-    color: rgb(63, 255, 5);
-    border-bottom: 5px solid rgb(63, 255, 5);;
+.icon{
+    --size : 1.5rem;
+    width  : var(--size);
+    height : var(--size);
+    display: block;
+    margin : 0 auto 0.25rem 0;
+    fill   : var(--grey);
 }
 
-/*  Hacemos responsive la cabecera usted podrá adicionar mas propiedades para diferentes dispositivos solo se ha usado dos para este demo . */
- 
-@media all and (max-width: 800px) {
- 
-    .cabecera-barra .cabecera-barra-2 nav{
-        font-size:14px;
-    }
- 
+.icon-image{
+    border-radius: 50%;
 }
- 
-@media all and (max-width: 600px) {
- 
-    .cabecera-barra .cabecera-barra-1{
-        padding:20px 0;
+
+.active{
+    color: var(--blue);
+}
+
+.active .icon{
+    fill: var(--blue);
+}
+
+
+   /* Responsive */
+@media only screen and (min-width: 1024px){
+
+    .wrapper{
+    justify-content: space-between;
     }
- 
-    .cabecera-barra .cabecera-barra-1 h1 {
-        float: none;
-        margin: -8px 0 2px;
-        text-align: center;
-        font-size: 24px;
-        line-height: 1;
+
+    .nav{
+    width      : max-content;
+    height     : var(--header-height);
+    position   : relative;
+    display    : flex;
+    align-items: center;
+    background : none;
     }
- 
-    .cabecera-barra .cabecera-barra-1 nav {
-        margin: 0;
-        float: none;
-        font-size:13px;
+
+    .item{
+    margin-left: 1.5rem;
     }
- 
-    .cabecera-barra .cabecera-barra-1 nav a.activo {
-        padding: 5px 8px;
+
+    .link{
+    font-size: 0.9rem;
     }
- 
-    .cabecera-barra .cabecera-barra-2{
-        padding: 20px 0;
-    }
- 
-    .cabecera-barra .cabecera-barra-2 h2{
-        float:none;
-        margin: 0 0 12px;
-    }
- 
-    .cabecera-barra .cabecera-barra-2 nav{
-        text-align: center;
-    }
- 
-    .cabecera-barra .cabecera-barra-2 nav a{
-        display: block;
-        padding: 8px;
-    }
- 
-    .cabecera-barra .cabecera-barra-2 nav i.fa{
-        margin-left:0;
+
+    .icon{
+    display: none;
     }
 }
 
+
+
+
+
+
+/* ---------------------------------------------------- */
 
 
 
