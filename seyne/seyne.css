@@ -1,0 +1,9 @@
+body {
+    background-image: url(../recursos/PROXIMAMENTE/proxi-alt-2.svg);
+    background-repeat: no-repeat;
+}
+
+.imagen {
+    margin: 1em 0 0 2em;
+    width: 40px;
+}
