@@ -7,3 +7,91 @@ body {
     margin: 1em 0 0 2em;
     width: 40px;
 }
+
+
+/* ANDROID */
+@media (max-width: 568px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPHONE-SE.svg);
+    }
+}
+
+
+@media (max-width: 640px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-ANDROID.svg);
+    }
+}
+
+@media (max-width: 667px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPHONE-8.svg);
+    }
+}
+
+
+@media (max-width: 730px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-GOOGLE-PIXEL-2.svg);
+    }
+}
+
+@media (max-width: 736px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPHONE-8-PLUS.svg);
+    }
+}
+
+@media (max-width: 812px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPHONE-11-X.svg);
+    }
+}
+
+@media (max-width: 823px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-GOOGLE-PIXEL-2-XL.svg);
+    }
+}
+
+@media (max-width: 896px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPHONE-11-MAX.svg);
+    }
+}
+
+@media (max-width: 912px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-SURFACE-PRO-4.svg);
+    }
+}
+
+@media (max-width: 990px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-SURFACE-PRO-3.svg);
+    }
+}
+
+@media (max-width: 1024px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPAD-MINI.svg);
+    }
+}
+
+@media (max-width: 1195px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPAD-PRO-11.svg);
+    }
+}
+
+@media (max-width: 1366px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/PROXI-IPAD-PRO-12.9.svg);
+    }
+}
+
+@media (max-width: 1400px) {
+    body {
+        background-image: url(../recursos/PROXIMAMENTE/proxi-alt-2.svg);
+    }
+}
